@@ -37,6 +37,13 @@ python -m venv .venv
 .venv\Scripts\activate
 ```
 
+#### Windows (Git Bash / WSL)
+
+```bash
+python -m venv .venv
+source .venv/Scripts/activate
+```
+
 #### Linux/macOS (Bash)
 
 ```bash
